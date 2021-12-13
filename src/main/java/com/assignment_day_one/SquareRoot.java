@@ -1,4 +1,4 @@
-package com.insta;
+package com.assignment_day_one;
 import java.lang.Math;
 
 public class SquareRoot {
